@@ -1,4 +1,6 @@
 E-COMMERCE SALES & CUSTOMER ANALYSIS
+
+
 PROJECT OVERVIEW:
 An end-to-end data analytics project focused on analyzing e-commerce sales, profitability, product performance, and customer purchasing behavior using Excel, MySQL, and Power BI.
 
